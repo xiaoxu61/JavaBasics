@@ -1,0 +1,12 @@
+package cn.learn.basic.Demo32Multi;
+
+public class Cat extends Animal {
+    @Override
+    public void eat() {
+        System.out.println("√®≥‘”„");
+    }
+
+    public void catchMouse(){
+        System.out.println("√®◊•¿œ Û");
+    }
+}
